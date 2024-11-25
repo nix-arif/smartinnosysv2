@@ -21,7 +21,7 @@ const Contact = ({ ref }: ContactProps) => {
         <div className="flex justify-center items-center">
           <h1>SMART INNOSYS SDN BHD</h1>
         </div>
-        <div className="flex items-center justify-around px-20">
+        <div className="flex items-center justify-between px-20">
           <Building2 />
           <div>
             <p>41-1 JALAN NEUTRON U16/Q</p>
@@ -30,7 +30,7 @@ const Contact = ({ ref }: ContactProps) => {
             <p>SELANGOR, MALAYSIA</p>
           </div>
         </div>
-        <div className="flex items-center justify-around px-20">
+        <div className="flex items-center justify-between px-20">
           <Mail />
           <p>smartinnosys@gmail.com</p>
         </div>

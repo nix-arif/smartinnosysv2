@@ -21,7 +21,7 @@ const TimeLine = ({ ref }: TimeLineProps) => {
             February 2014
           </time>
           <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
-            Establishment of Baiduri Marketing Enterprise
+            Establishment of Smart Innosys Enterprise
           </h3>
           <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
             Participating with the local market in Malaysia
@@ -48,7 +48,7 @@ const TimeLine = ({ ref }: TimeLineProps) => {
             Establishment of Smart Innosys Sdn Bhd
           </h3>
           <p className="text-base font-normal text-gray-500 dark:text-gray-400">
-            More than 1000 hospitals in Malaysia
+            Participating with the local market in Malaysia
           </p>
         </li>
         <li className="mb-10 ms-4">
@@ -72,7 +72,7 @@ const TimeLine = ({ ref }: TimeLineProps) => {
             Bring in Laser Surgical Diode Laser System
           </h3>
           <p className="text-base font-normal text-gray-500 dark:text-gray-400">
-            Collaboration with METRUM Cyroflex, Ploand
+            Collaboration with METRUM Cyroflex, Poland
           </p>
         </li>
       </ol>
