@@ -68,7 +68,7 @@ const Product = ({ ref }: ProductProps) => {
         <div className="">
           <div>
             <Image
-              src="/surgicalInstruments.jpg"
+              src="/surgicalinstruments.jpg"
               width={800}
               height={600}
               alt="surgicalinstruments"
