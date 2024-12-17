@@ -68,6 +68,18 @@ const Product = ({ ref }: ProductProps) => {
         <div className="">
           <div>
             <Image
+              src="/swing15.jpg"
+              width={800}
+              height={600}
+              alt="swing15"
+              className="rounded-lg mb-5"
+            />
+            <h1 className="text-center">LASER MACHINE (SWING 15)</h1>
+          </div>
+        </div>
+        <div className="">
+          <div>
+            <Image
               src="/surgicalinstruments.jpg"
               width={800}
               height={600}
@@ -77,16 +89,41 @@ const Product = ({ ref }: ProductProps) => {
             <h1 className="text-center">SURGICAL INSTRUMENTS</h1>
           </div>
         </div>
+
         <div className="">
           <div>
             <Image
-              src="/swing15.jpg"
+              src="/container.jpeg"
               width={800}
               height={600}
-              alt="surgicalinstruments"
+              alt="container"
               className="rounded-lg mb-5"
             />
-            <h1 className="text-center">LASER MACHINE (SWING 15)</h1>
+            <h1 className="text-center">STERILIZATION CONTAINER</h1>
+          </div>
+        </div>
+        <div className="">
+          <div>
+            <Image
+              src="/drapes.jpeg"
+              width={800}
+              height={600}
+              alt="drapes"
+              className="rounded-lg mb-5"
+            />
+            <h1 className="text-center">SURGICAL DRAPES</h1>
+          </div>
+        </div>
+        <div className="">
+          <div>
+            <Image
+              src="/gown.jpg"
+              width={800}
+              height={600}
+              alt="gown"
+              className="rounded-lg mb-5"
+            />
+            <h1 className="text-center">OT ATTIRES</h1>
           </div>
         </div>
       </div>
