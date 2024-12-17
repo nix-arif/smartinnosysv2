@@ -6,18 +6,11 @@ interface TeamProps {
 
 const ourTeam = [
   {
-    image: "/1.jpeg",
-    alt: "Dr. A.K.M. Ashraf",
-    text: "Dr. A.K.M. Ashraf is the CEO of Smart Innosys Sdn Bhd, leading the company with a vision to deliver innovative, customer-focused solutions in the medical industry. With over 15 years of experience in medical product development and business strategy, he has driven Smart Innosys through significant growth,",
-    name: "Dr. A.K.M. Ashraf",
+    image: "/1.png",
+    alt: "Nik Fikry",
+    text: "Our CEO, Nik Fikry, is a visionary leader with a strong track record of driving innovation and growth. With extensive experience in medical industry, he are committed to steering the company towards continued success, fostering a culture of excellence, and delivering value to our clients, partners, and stakeholders. Under [his/her/their] leadership, we are focused on achieving our strategic goals while maintaining our core values of integrity, collaboration, and customer-centricity.",
+    name: "Nik Fikry",
     position: "CEO",
-  },
-  {
-    image: "/2.jpg",
-    alt: "Dr. A.K.M. Safwan",
-    text: "Dr. A.K.M. Ashraf is the CEO of Smart Innosys Sdn Bhd, leading the company with a vision to deliver innovative, customer-focused solutions in the medical industry. With over 15 years of experience in medical product development and business strategy, he has driven Smart Innosys through significant growth,",
-    name: "Dr. A.K.M. Safwan",
-    position: "COO",
   },
 ];
 
